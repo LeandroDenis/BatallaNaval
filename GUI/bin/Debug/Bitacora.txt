@@ -4,3 +4,12 @@
 
 [23:23:57 lunes, 19 de noviembre de 2018]	 Logeo exitoso
 -----------------------
+
+[23:50:07 lunes, 19 de noviembre de 2018]	 Se procede a crear al usuario: qwe
+-----------------------
+
+[23:50:07 lunes, 19 de noviembre de 2018]	 Error al crear el usuario: Referencia a objeto no establecida como instancia de un objeto.
+-----------------------
+
+[23:51:15 lunes, 19 de noviembre de 2018]	 Se procede a logear al usuario: qwe
+-----------------------

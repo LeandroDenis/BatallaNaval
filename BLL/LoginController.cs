@@ -9,7 +9,7 @@ namespace BLL
 
         public bool VerificarCredenciales(Usuario user)
         {
-            if (!string.IsNullOrWhiteSpace(user.Nombre) || !string.IsNullOrWhiteSpace(user.Contraseña))
+            if (!string.IsNullOrWhiteSpace(user.Nombre) && !string.IsNullOrWhiteSpace(user.Contraseña))
             {
                 return service.Validar(user);
             }
@@ -27,7 +27,7 @@ namespace BLL
 
         public bool CrearUsuario(Usuario user)
         {
-            if (!string.IsNullOrWhiteSpace(user.Nombre) || !string.IsNullOrWhiteSpace(user.Contraseña))
+            if (!string.IsNullOrWhiteSpace(user.Nombre) && !string.IsNullOrWhiteSpace(user.Contraseña))
             {
                 return service.AltaUsuario(user);
             }
