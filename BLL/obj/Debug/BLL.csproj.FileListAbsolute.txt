@@ -1,0 +1,9 @@
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\BLL.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\BLL.pdb
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\obj\Debug\BLL.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\obj\Debug\BLL.pdb
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\BE.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\BE.pdb
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\DAL.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BLL\bin\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BE\bin\Debug\BE.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BE\bin\Debug\BE.pdb
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BE\obj\Debug\BE.dll
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BE\obj\Debug\BE.pdb
+C:\Users\Leandro\Desktop\lug\TP\BatallaNaval\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

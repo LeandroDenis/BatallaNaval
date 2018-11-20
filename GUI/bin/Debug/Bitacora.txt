@@ -1,0 +1,6 @@
+
+[23:23:57 lunes, 19 de noviembre de 2018]	 Se procede a deslogear al usuario: Leandro
+-----------------------
+
+[23:23:57 lunes, 19 de noviembre de 2018]	 Logeo exitoso
+-----------------------
